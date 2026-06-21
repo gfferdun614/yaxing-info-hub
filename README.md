@@ -1,2 +1,14 @@
 # yaxing-info-hub
-HTML page archive and documentation
+
+静态页面发布集合
+
+这里作为静态内容目录，保存自动化生成的页面。
+
+## 文件组织
+
+- 根目录承载页面文件
+- README 记录仓库用途与状态
+
+## 访问状态
+
+如果 Pages 暂未生效，可稍后重试或查看仓库中的 HTML 文件。
